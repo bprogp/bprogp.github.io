@@ -1,13 +1,12 @@
-<? xml=”1.0” encoding=”UTF-8”?>
+<?xml=”1.0” encoding=”UTF-8”?>
 <rss version=”2.0”>
 
 
-	<channel>
-		<item>
-			<title>Welcome to the Progressionist HypSec RSS Feed</title>
-			<description>Hyper Security RSS feed has been initialized successfully</description>
-			<link>https://bprogp.github.io</link>
-			<pubdate>Thu, 25 Jan 2018 13:54 GMT</pubdate>
-		</item>
-	</channel>
+<channel>
+	<item>
+		<title>Welcome to the Progressionist HypSec RSS Feed</title>
+		<description>Hyper Security RSS feed has been initialized successfully</description>
+		<link>https://bprogp.github.io</link>
+	</item>
+</channel>
 </rss>
