@@ -8,5 +8,11 @@
 		<description>Hyper Security RSS feed has been initialized successfully</description>
 		<link>https://bprogp.github.io</link>
 	</item>
+	<item>
+		
+		<title>Progressionist Manifesto</title>
+		<description>Google Docs link to the manifesto</description>
+		<link>https://docs.google.com/document/d/1P78gGfafbq4B6Cb_dq8U564UXouavBR0rvEjdgmYL-M/edit?usp=sharing</link>
+	</item>
 </channel>
 </rss>
